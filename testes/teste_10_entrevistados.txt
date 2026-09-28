@@ -1,0 +1,12 @@
+# Teste com 10 entrevistados
+
+Para validar o funcionamento do programa, foi realizado um teste com 10 respostas.
+
+## Resultado esperado
+
+- ⭐ EXCELENTE: 4
+- 👍 BOM: 3
+- 😞 RUIM: 3
+- 📋 TOTAL: 10
+
+O resultado confirma o funcionamento dos contadores e das estruturas de decisão.
